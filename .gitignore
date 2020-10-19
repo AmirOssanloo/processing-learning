@@ -1,0 +1,5 @@
+# IDE files and directories
+.vscode/
+
+# Build directories
+out/
